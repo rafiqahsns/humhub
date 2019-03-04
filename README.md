@@ -120,6 +120,22 @@ Sebelum anda mengkonfigurasi HumHub dan mulai menggunakannya, Anda perlu memasti
 # Pembahasan
 [`^ kembali ke atas ^`](#)
 
+**Humhub** merupakan aplikasi sosial media open souce yang dapat bekerja pada server anda sendiri. Humhub memiliki beberapa kelebihan:
+<ul>
+  <li><i> open source software</i> </li
+  <li><i>user friendly</i></li> 
+  <li> software yang fleksibel. Dengan adanya modul, humhub dapat diperluas dengan menggunakan alat dari pihak ketiga, menulis sendiri atau menghubungkan antar perangkat lunak yang ada. </li>
+  <li> perangkat lunak yang aman karena Humhub bekerja pada server Anda, sehingga data yang diperoleh data Anda, dan aturannya adalah aturan yang dibuat sendiri. HumHub adalah solusi yang di-host sendiri dan berjalan di hampir setiap server. Humhub berada dalam kendali penuh atas data yang dimiliki.</li>
+  <li> Setiap user dapat berkomunikasi melalui space (yang kerjanya seperti grup), Space memiliki wall sehingga setiap anggota dapat membaca yang apa yang ada di wall </li>
+  <li> setiap <i>user</i> dapat <i>follow user</i> lain, agar setiap user menulis status dapat muncul di <i> dashboard </i> </li> 
+</ul>
+
+Kekurangan Humhub:
+<ul>
+  <li> tidak ada fitur chat antar user </li>
+</ul>
+
+
 
 # Referensi
 [`^ kembali ke atas ^`](#)
