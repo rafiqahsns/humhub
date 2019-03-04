@@ -129,7 +129,7 @@ Beberapa hal yang dapat digunakan pada Humhub yaitu:
 <h2><li><b> Sign in </b></li></h2><br>
 	<h3 align="center"><img src="/etc/sign in.JPG"></h3>
 	Pada sign in, user menuliskan password serta username agar bisa <i>Sign in</i> pada Humhub
-	<h2><li><b> Membuat space </b></li></h2><br>
+	<h2><li><b> Membuat Space </b></li></h2><br>
 	<h3 align="center"><img src="/etc/space.png"></h3>
 	Tampilan space adalah seperti diatas. <br>
 	<h3 align="center"><img src="/etc/space1.png"></h3>
