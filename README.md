@@ -85,11 +85,11 @@ Setelah anda sudah menyiapkan hal-hal diatas, anda sudah dapat menginstall Humhu
 Code dibawah akan menginstall HumHub versi 1.3.1 :
 
    ```
-	wget https://www.humhub.org/en/download/package/humhub-1.3.1.tar.gz
-	mv humhub-1.3.1.tar.gz /var/www/html
-	cd /var/www/html
-	tar -zxvf humhub-1.3.1.tar.gz
-	chmod -R 777 humhub
+	$ wget https://www.humhub.org/en/download/package/humhub-1.3.1.tar.gz
+	$ sudo mv humhub-1.3.1.tar.gz /var/www/html
+	$ cd /var/www/html
+	$ sudo tar -zxvf humhub-1.3.1.tar.gz
+	$ sudo chmod -R 777 humhub
    ```   
 
 #### Step 6 : Install ekstensi HumHub yang diperlukan '
@@ -98,10 +98,13 @@ Sebelum anda mengkonfigurasi HumHub dan mulai menggunakannya, Anda perlu memasti
 
 1. jika semua sudah berjalan dengan baik, sekarang anda sudah bisa akses page konfigurasi HumHub di browser anda dengan mengakses localhost. Halaman konfigurasi terlihat seperti dibawah ini:
 
-2. Setelah anda   
+2. Setelah anda klik next, anda akan di arahkan kedalam sebuah page yang berisikan daftar keperluan untuk menjalankan HumHub.
+3. Jika ada ekstensi yang hilang, anda perlu menginstall ekstensi yang hilang tersebut di server anda lewat termminal.
+4. Restart Apache service, dan ulangi langkah ketiga sampai tidak ada ekstensi yang hilang.
+
+Jika semua keperluan untuk menjalankan HumHub sudah terpenuhi semua, page akan menampilkan hasil seperti dibawah ini:
 
 
-   
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
 
