@@ -1,7 +1,7 @@
 <h1 align="center"><img src="/etc/humhub.jpg"></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:|:---:
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:
 
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
@@ -121,13 +121,6 @@ Setelah anda membuka localhost di browser anda, akan ada tampilan untuk *Databas
 
 Disini, anda dapat membuat akun administratif. Lalu, anda dapat menggunakan username dan password untuk login dan mulai menggunakan HumHub.
 
-# Maintenance
-[`^ kembali ke atas ^`](#)
-
-
-# Otomatisasi
-[`^ kembali ke atas ^`](#)
-
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 
@@ -148,6 +141,7 @@ Disini, anda dapat membuat akun administratif. Lalu, anda dapat menggunakan user
 Kekurangan Humhub:
 <ul>
   <li> tidak ada fitur chat antar user </li>
+  <li> tidak dapat mengubah kata sandi </li>
 </ul>
 
 
