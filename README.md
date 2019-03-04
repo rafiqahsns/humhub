@@ -130,7 +130,7 @@ Disini, anda dapat membuat akun administratif. Lalu, anda dapat menggunakan user
 
 **Humhub** merupakan aplikasi sosial media open souce yang dapat bekerja pada server anda sendiri. Humhub memiliki beberapa kelebihan:
 <ul>
-  <li><i> open source software</i> </li
+	<li><i> open source software</i> </li>
   <li><i>user friendly</i></li> 
   <li> software yang fleksibel. Dengan adanya modul, humhub dapat diperluas dengan menggunakan alat dari pihak ketiga, menulis sendiri atau menghubungkan antar perangkat lunak yang ada. </li>
   <li> perangkat lunak yang aman karena Humhub bekerja pada server Anda, sehingga data yang diperoleh data Anda, dan aturannya adalah aturan yang dibuat sendiri. HumHub adalah solusi yang di-host sendiri dan berjalan di hampir setiap server. Humhub berada dalam kendali penuh atas data yang dimiliki.</li>
@@ -148,3 +148,7 @@ Kekurangan Humhub:
 
 # Referensi
 [`^ kembali ke atas ^`](#)
+
+1. [About HumHub](https://humhub.org/) - HumHub
+2. [Cara Instalasi HumHub](http://www.prabeshdhakal.com/2018/09/install-humhub-1-3-x-on-ubuntu-1804/) -prabeshdhakal
+3. [Cara konfigurasi HumHub](http://www.prabeshdhakal.com/2018/10/configure-humhub-1-3-x-installed-on-ubuntu-1804/) -prabeshdhakal
