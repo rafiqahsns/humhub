@@ -5,9 +5,10 @@
 
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
+
 **Humhub** merupakan perangkat lunak jaringan sosial dan *framework* yang dibuat untuk memudahkan komunikasi dan kolaborasi. 
-Humhub merupakan software yang ringan, kuat dan dengan tampilan yang *user-friendly*. Kelebihan dari humhub antara lain merupakan software *open source*,
-flexibel, aman, dan memiliki layanan profesional. 
+Humhub merupakan software yang ringan, kuat dan dengan tampilan yang *user-friendly*. Kelebihan dari humhub antara lain merupakan *software* *open source*,
+*flexibel*, aman, dan memiliki layanan profesional. 
 
 # Instalasi
 [`^ kembali ke atas ^`](#)
@@ -20,7 +21,7 @@ flexibel, aman, dan memiliki layanan profesional.
 <li>A minimum 64 MB of memory allocated to PHP</li> 
 <li>A minimum of 50 MB of database space</li> 
 
-###Langkah Instalasi:
+#### Langkah Instalasi:
 
 
 # Konfigurasi
