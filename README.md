@@ -108,6 +108,18 @@ Jika semua keperluan untuk menjalankan HumHub sudah terpenuhi semua, page akan m
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
 
+Setelah anda sudah melakukan step-step instalasi dengan benar, maka anda sudah bisa melanjutkan kembali.
+
+#### Konfigurasi Database
+
+Setelah anda membuka localhost di browser anda, akan ada tampilan untuk *Database Configuration* yang perlu anda isi. Isikan informasi di dalam field sesuai ketentuan (username dan password yang sudah anda buat sebelumnya). Kami membuat nama Database "humhub". Tampilan page akan seperti dibawah ini:
+
+#### Menentukan Nama untuk Social Network
+
+
+#### Page selanjutnya hanya perlu memilih beberapa opsi, klik next sampai muncul page serpeti ini:
+
+Disini, anda dapat membuat akun administratif. Lalu, anda dapat menggunakan username dan password untuk login dan mulai menggunakan HumHub.
 
 # Maintenance
 [`^ kembali ke atas ^`](#)
