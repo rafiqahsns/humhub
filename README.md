@@ -23,13 +23,14 @@ Humhub merupakan software yang ringan, kuat dan dengan tampilan yang *user-frien
 
 #### Langkah Instalasi:
 #### Step 1 : Install LAMP Stack
-Lamp merupakan singkatan dari **L**inux operating system, **A**pache HTTP Server, **M**ySQL relational database system, dan bahasa pemrograman **P**HP. Hal-hal tersebut digunakan oleh server untuk hosting suatu website atau aplikasi web.
+LAMP merupakan singkatan dari **L**inux operating system, **A**pache HTTP Server, **M**ySQL relational database system, dan bahasa pemrograman **P**HP. Hal-hal tersebut digunakan oleh server untuk hosting suatu website atau aplikasi web.
 
 Cara instalasi di terminal bisa dilakukan dengan: 
 
    ```
   $ sudo apt-get install lamp-server^ -y
    ```
+<img src="/etc/1.JPG" align=center>
 
 #### Step 2 : Install PHP Extentensions
 Ketika anda sudah menginstall LAMP, masih ada beberapa ekstensi PHP yang diperlukan untuk menjalankan Humhub.
@@ -41,6 +42,9 @@ Cara instalasi di terminal :
   $ sudo apt-get install php-intl php-zip -y
   $ sudo apt-get install php-ldap php-apcu php-sqlite3 -y
    ```
+Gambar-gambar contoh instalasi :
+<img src="/etc/5.JPG" align=center>
+
 Jika anda masih menemukan error, mungkin anda perlu versi PHP yang sesuai. Hal ini kami menggunakan PHP versi 7.2. 
 
 Contoh instalasi pada versi 7.2 :
@@ -60,7 +64,11 @@ Lakukan code berikut :
  $ sudo systemctl restart apache2
  $ sudo systemctl enable apache2
    ```
+<img src="/etc/3.JPG" align=center>
+
 Jika anda sudah melakukan code tersebut, anda bisa langsung mengakses localhost di browser dan jika berhasil akan muncul halaman seperti ini:
+
+
 
 #### Step 4 : Konfigurasi Database MySQL 
 
@@ -69,6 +77,8 @@ Dalam step ini, anda membuat sebuah database user untuk Humhub. Lakukan code ber
    ```
  $ sudo mysql -u root -p
    ```   
+<img src="/etc/4.JPG" align=center>
+
 Jika anda hanya mau mencoba testing saja, cukup tekan enter untuk inisialisasi MySQL. Selain itu anda juga bisa membuat kata sandi root MySQL anda. Setelah anda sudah membuat kata sandi, MySQL akan terbuka ketika anda memasukkan code berikut:
 
    ```
@@ -77,6 +87,8 @@ Jika anda hanya mau mencoba testing saja, cukup tekan enter untuk inisialisasi M
 	FLUSH PRIVILEGES; 
 	EXIT;
    ```   
+   
+ <img src="/etc/6.JPG" align=center>
 
 #### Step 5 : Install HumHub 
 
@@ -91,6 +103,7 @@ Code dibawah akan menginstall HumHub versi 1.3.1 :
 	$ sudo tar -zxvf humhub-1.3.1.tar.gz
 	$ sudo chmod -R 777 humhub
    ```   
+<img src="/etc/9.JPG" align=center>
 
 #### Step 6 : Install ekstensi HumHub yang diperlukan '
 
@@ -98,12 +111,14 @@ Sebelum anda mengkonfigurasi HumHub dan mulai menggunakannya, Anda perlu memasti
 
 1. jika semua sudah berjalan dengan baik, sekarang anda sudah bisa akses page konfigurasi HumHub di browser anda dengan mengakses localhost. Halaman konfigurasi terlihat seperti dibawah ini:
 
+<img src="/etc/10.JPG" align=center>
+
 2. Setelah anda klik next, anda akan di arahkan kedalam sebuah page yang berisikan daftar keperluan untuk menjalankan HumHub.
+
+<img src="/etc/11.JPG" align=center>
+
 3. Jika ada ekstensi yang hilang, anda perlu menginstall ekstensi yang hilang tersebut di server anda lewat termminal.
 4. Restart Apache service, dan ulangi langkah ketiga sampai tidak ada ekstensi yang hilang.
-
-Jika semua keperluan untuk menjalankan HumHub sudah terpenuhi semua, page akan menampilkan hasil seperti dibawah ini:
-
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
@@ -114,10 +129,15 @@ Setelah anda sudah melakukan step-step instalasi dengan benar, maka anda sudah b
 
 Setelah anda membuka localhost di browser anda, akan ada tampilan untuk *Database Configuration* yang perlu anda isi. Isikan informasi di dalam field sesuai ketentuan (username dan password yang sudah anda buat sebelumnya). Kami membuat nama Database "humhub". Tampilan page akan seperti dibawah ini:
 
+<img src="/etc/12.JPG" align=center>
+
 #### Menentukan Nama untuk Social Network
 
+<img src="/etc/13.JPG" align=center>
 
-#### Page selanjutnya hanya perlu memilih beberapa opsi, klik next sampai muncul page sepeRti ini:
+#### Page selanjutnya hanya perlu memilih beberapa opsi, klik next sampai muncul page seperti ini:
+
+<img src="/etc/14.JPG" align=center>
 
 Disini, anda dapat membuat akun administratif. Lalu, anda dapat menggunakan username dan password untuk login dan mulai menggunakan HumHub.
 
