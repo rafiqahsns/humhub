@@ -1,5 +1,5 @@
 <h1 align="center"><img src="/etc/humhub.jpg"></h1>
-# Humhub
+
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:
 
