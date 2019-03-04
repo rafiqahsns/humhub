@@ -1,4 +1,4 @@
-<h1 align="center"><img src="/etc/humhub.jpg"></h1>
+<h1 align="center"><img src="/etc/logohumhub.jpg"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:
