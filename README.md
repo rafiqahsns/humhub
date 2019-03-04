@@ -117,12 +117,31 @@ Setelah anda membuka localhost di browser anda, akan ada tampilan untuk *Databas
 #### Menentukan Nama untuk Social Network
 
 
-#### Page selanjutnya hanya perlu memilih beberapa opsi, klik next sampai muncul page serpeti ini:
+#### Page selanjutnya hanya perlu memilih beberapa opsi, klik next sampai muncul page sepeRti ini:
 
 Disini, anda dapat membuat akun administratif. Lalu, anda dapat menggunakan username dan password untuk login dan mulai menggunakan HumHub.
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
+
+Beberapa hal yang dapat digunakan pada Humhub yaitu:
+<ul>
+	<h2><li> Sign in </li></h2>
+	<h3 align="center"><img src="/etc/sign in.jpg"></h3>
+	Pada sign in, user menuliskan password serta username agar bisa <i>Sign in </i> pada Humhub
+	<h2><li> Membuat space </li></h2>
+	<h3 align="center"><img src="/etc/space.png"></h3>
+	tampilan space adalah seperti diatas. <br>
+	<h3 align="center"><img src="/etc/space1.png"></h3>
+	pertama, klik My Space, kemudian klik create New Space. <br>
+	<h3 align="center"><img src="/etc/space2.PNG"></h3>
+	lalu, tuliskan nama Space yang ingin dibuat serta deskripsi kemudian klik Next. Serta atur settingnya, seperti yang dibawah ini. <br>
+	<h3 align="center"><img src="/etc/space3.png"></h3>
+	<h3 align="center"><img src="/etc/space4.PNG"></h3>
+	kemudian, invite user yang ingin dimasukkan pada Space. <br>
+	<h3 align="center"><img src="/etc/space5.PNG"></h3>
+	jika sudah, maka space telah selesai dibuat. seperti dibawah ini <br>
+	<h3 align="center"><img src="/etc/space6.PNG"></h3>
 
 
 # Pembahasan
