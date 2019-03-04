@@ -125,24 +125,41 @@ Disini, anda dapat membuat akun administratif. Lalu, anda dapat menggunakan user
 [`^ kembali ke atas ^`](#)
 
 Beberapa hal yang dapat digunakan pada Humhub yaitu:
-<ul>
-	<h2><li> Sign in </li></h2>
+
+<h2><li><b> Sign in </b></li></h2><br>
 	<h3 align="center"><img src="/etc/sign in.JPG"></h3>
-	Pada sign in, user menuliskan password serta username agar bisa <i>Sign in </i> pada Humhub
-	<h2><li> Membuat space </li></h2>
+	Pada sign in, user menuliskan password serta username agar bisa <i>Sign in</i> pada Humhub
+	<h2><li><b> Membuat space </b></li></h2><br>
 	<h3 align="center"><img src="/etc/space.png"></h3>
-	tampilan space adalah seperti diatas. <br>
+	Tampilan space adalah seperti diatas. <br>
 	<h3 align="center"><img src="/etc/space1.png"></h3>
-	pertama, klik My Space, kemudian klik create New Space. <br>
+	Pertama, klik My Space, kemudian klik create New Space. <br>
 	<h3 align="center"><img src="/etc/space2.PNG"></h3>
-	lalu, tuliskan nama Space yang ingin dibuat serta deskripsi kemudian klik Next. Serta atur settingnya, seperti yang dibawah ini. <br>
+	Lalu, tuliskan nama Space yang ingin dibuat serta deskripsi kemudian klik Next. Serta atur settingnya, seperti yang dibawah ini. <br>
 	<h3 align="center"><img src="/etc/space3.png"></h3>
 	<h3 align="center"><img src="/etc/space4.PNG"></h3>
-	kemudian, invite user yang ingin dimasukkan pada Space. <br>
+	Kemudian, invite user yang ingin dimasukkan pada Space. <br>
 	<h3 align="center"><img src="/etc/space5.PNG"></h3>
-	jika sudah, maka space telah selesai dibuat. seperti dibawah ini <br>
+	Jika sudah, maka space telah selesai dibuat. seperti dibawah ini <br>
 	<h3 align="center"><img src="/etc/space6.PNG"></h3>
-
+<br>
+	<h2><li><b>Dashboard HumHub</b></h2></li>
+	<h3 align="center"><img src="/etc/dashboard.JPG"></h3>
+<br>
+	<h2><li><b> Follow </b></h2></li>
+	Pada HumHub dapat mengikuti pengguna lain seperti yang terlihat pada gambar di bawah ini :
+	<h3 align="center"><img src="/etc/follow.PNG"></h3>
+<br>
+	<h2><li><b> Membuat Status </b></h2></li><br>
+	Untuk membuat status dapat dilakukan dengan tiga langkah yaitu : <br>
+	1. Status dapat ditulis pada bagian yang ditunjukkan oleh gambar di bawah ini :
+	<h3 align="center"><img src="/etc/status1.png"></h3>
+<br>
+	2. Pada bagian tersebut anda dapat menulis status yang anda inginkan dan klik "submit"
+	<h3 align="center"><img src="/etc/status2.png"></h3>
+<br>
+	3. Dan status anda akan muncul pada timeline.
+	<h3 align="center"><img src="/etc/status3.PNG"></h3>
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
