@@ -173,7 +173,18 @@ Beberapa hal yang dapat digunakan pada Humhub yaitu:
 	Maka akan muncul seperti gambar di bawah dan pilih "save"
 	<h3 align="center"><img src="/etc/adduser5.png"></h3><br>
 	Akun berhasil dibuat
-	<h3 align="center"><img src="/etc/adduser6.png"></h3><br>
+	<h3 align="center"><img src="/etc/adduser6.png"></h3>
+<br>
+	<h2><li><b> Add Module </b></h2></li>
+	Pada HumHub dapat menambahkan module dengan cara memilih module pada menu administrasi seperti pada gambar di bawah :
+	<h3 align="center"><img src="/etc/modul1.png"></h3>
+	Contohnya menambahkan module "Birthday Widget" selanjutnya pilih install
+	<h3 align="center"><img src="/etc/modul2.png"></h3>
+	Setelah berhasil di install maka akan terlihat pada gambar di bawah :
+	<h3 align="center"><img src="/etc/modul3.png"></h3>
+	Maka akan seperti pada gambar di bawah :
+	<h3 align="center"><img src="/etc/modul4.png"></h3>
+<br>
 	
 # Pembahasan
 [`^ kembali ke atas ^`](#)
