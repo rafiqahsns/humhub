@@ -160,7 +160,21 @@ Beberapa hal yang dapat digunakan pada Humhub yaitu:
 <br>
 	3. Dan status anda akan muncul pada timeline.
 	<h3 align="center"><img src="/etc/status3.PNG"></h3>
-
+<br>
+	<h2><li><b> Add User </b></h2></li>
+	Untuk melakukan add user pilih administration seperti gambar di bawah ini
+	<h3 align="center"><img src="/etc/adduser1.png"></h3><br>
+	Maka akan muncul window seperti gambar di bawah dan pilih "Add new user"
+	<h3 align="center"><img src="/etc/adduser2.png"></h3><br>
+	Selanjutnya isi data diri dan klik "create account"
+	<h3 align="center"><img src="/etc/adduser3.PNG"></h3><br>
+	Lalu lakukan seperti gambar di bawah
+	<h3 align="center"><img src="/etc/adduser4.png"></h3><br>
+	Maka akan muncul seperti gambar di bawah dan pilih "save"
+	<h3 align="center"><img src="/etc/adduser5.png"></h3><br>
+	Akun berhasil dibuat
+	<h3 align="center"><img src="/etc/adduser6.png"></h3><br>
+	
 # Pembahasan
 [`^ kembali ke atas ^`](#)
 
