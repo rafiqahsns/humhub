@@ -58,10 +58,50 @@ Lakukan code berikut :
 
   ```
  $ sudo systemctl restart apache2
- $ systemctl enable apache2
+ $ sudo systemctl enable apache2
    ```
+Jika anda sudah melakukan code tersebut, anda bisa langsung mengakses localhost di browser dan jika berhasil akan muncul halaman seperti ini:
+
+#### Step 4 : Konfigurasi Database MySQL 
+
+Dalam step ini, anda membuat sebuah database user untuk Humhub. Lakukan code berikut di terminal anda :
+
+   ```
+ $ sudo mysql -u root -p
+   ```   
+Jika anda hanya mau mencoba testing saja, cukup tekan enter untuk inisialisasi MySQL. Selain itu anda juga bisa membuat kata sandi root MySQL anda. Setelah anda sudah membuat kata sandi, MySQL akan terbuka ketika anda memasukkan code berikut:
+
+   ```
+	CREATE DATABASE `humhub` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+	GRANT ALL ON `humhub`.* TO '<your_username>'@'localhost' IDENTIFIED BY '<your_password>'; 
+	FLUSH PRIVILEGES; 
+	EXIT;
+   ```   
+
+#### Step 5 : Install HumHub 
+
+Setelah anda sudah menyiapkan hal-hal diatas, anda sudah dapat menginstall Humhub. Versi humhub yang kami install adalah HumHub 1.3.1. Namun, anda bisa menginstall versi HumHub terbaru hanya dengan mengubah url pada baris pertama code dibawah ini. Anda bisa melihat url versi terbaru pada website HumHub.
+
+Code dibawah akan menginstall HumHub versi 1.3.1 :
+
+   ```
+	wget https://www.humhub.org/en/download/package/humhub-1.3.1.tar.gz
+	mv humhub-1.3.1.tar.gz /var/www/html
+	cd /var/www/html
+	tar -zxvf humhub-1.3.1.tar.gz
+	chmod -R 777 humhub
+   ```   
+
+#### Step 6 : Install ekstensi HumHub yang diperlukan '
+
+Sebelum anda mengkonfigurasi HumHub dan mulai menggunakannya, Anda perlu memastikan semua ekstensi yang diperlukan untuk menjalankan HumHub sudah terinstall semua. Anda perlu mengulangi tahap-tahap tersebut sampai semua ekstensi PHP terpenuhi.
+
+1. jika semua sudah berjalan dengan baik, sekarang anda sudah bisa akses page konfigurasi HumHub di browser anda dengan mengakses localhost. Halaman konfigurasi terlihat seperti dibawah ini:
+
+2. Setelah anda   
 
 
+   
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
 
