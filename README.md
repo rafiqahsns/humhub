@@ -127,7 +127,7 @@ Disini, anda dapat membuat akun administratif. Lalu, anda dapat menggunakan user
 Beberapa hal yang dapat digunakan pada Humhub yaitu:
 <ul>
 	<h2><li> Sign in </li></h2>
-	<h3 align="center"><img src="/etc/sign in.jpg"></h3>
+	<h3 align="center"><img src="/etc/sign in.JPG"></h3>
 	Pada sign in, user menuliskan password serta username agar bisa <i>Sign in </i> pada Humhub
 	<h2><li> Membuat space </li></h2>
 	<h3 align="center"><img src="/etc/space.png"></h3>
