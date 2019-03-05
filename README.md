@@ -59,7 +59,7 @@ Lakukan kode berikut :
 
 Setelah kode tersebut dijalankan, anda bisa langsung mengakses localhost di browser dan jika berhasil akan muncul halaman seperti ini:
 
-<img src="/etc/apache.png" align=center>
+<img src="/etc/apache.PNG" align=center>
 
 #### Langkah 4 : Konfigurasi Database MySQL 
 
