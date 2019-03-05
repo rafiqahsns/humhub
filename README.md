@@ -104,6 +104,8 @@ Sebelum anda mengkonfigurasi HumHub dan mulai menggunakannya, Anda perlu memasti
 
 <img src="/etc/10.JPG" align=center>
 
+<img src="/etc/10.JPG" align=center>
+
 2. Setelah anda klik next, anda akan di arahkan kedalam sebuah page yang berisikan daftar keperluan untuk menjalankan HumHub.
 
 <img src="/etc/11.JPG" align=center>
