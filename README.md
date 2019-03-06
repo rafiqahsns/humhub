@@ -19,7 +19,7 @@ Humhub merupakan software yang ringan, kuat dan dengan tampilan yang *user-frien
 <li>MySQL atau MariaDB dengan utf8mb4 character set support dan InnoDB storage engine yang sudah terinstall</li> 
 <li>Minimal kapasitas disk: 500 MB</li> 
 <li>Minimal alokasi memory untuk PHP: 64 MB</li> 
-<li>Miniml kapasitas untuk database: 50 MB</li> 
+<li>Minimal kapasitas untuk database: 50 MB</li> 
 
 #### Langkah Instalasi:
 #### Langkah 1 : Install LAMP Stack
